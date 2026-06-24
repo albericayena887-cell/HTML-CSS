@@ -1,0 +1,9 @@
+{
+    "vbnetcompanion.enableLanguageClientBridge": true,
+    "vbnetcompanion.enableBridgeForCSharp": true,
+    "vbnetcompanion.enableBridgeForVisualBasic": true,
+    "vbnetcompanion.languageClientServerCommand": "c:\\Users\\Dell\\.vscode\\extensions\\roies.vbnet-companion-0.1.47\\server\\VBNetCompanion.LanguageServer\\publish\\VBNetCompanion.LanguageServer.exe",
+    "vbnetcompanion.languageClientServerArgs": [
+        "--stdio"
+    ]
+}

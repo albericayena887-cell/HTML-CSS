@@ -1,0 +1,8 @@
+.tab{
+    font-size: 55px;
+    background-color: skyblue;
+    border-radius: 10px;
+    box-shadow: 6px 6px 25px rgba(0, 0, 0);
+    padding: 50px;
+    text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+}

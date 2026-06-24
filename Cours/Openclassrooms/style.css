@@ -1,0 +1,43 @@
+a{
+    color: #242424;
+    text-decoration: none;
+    
+}
+em{
+    font-style: normal;
+    color: #a5b4fc;
+}
+
+h1{
+    font-size: 3.5em;
+    color: #A5B4FC;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    color: #F9F8FF;
+}
+p,li{
+    font-size: 1.1em;
+    font-family: 'Manrope', sans-serif;
+    color: #F9F8FF;
+}
+
+.lol{
+    background-color: white;
+}
+body{
+    background-color: #1F2039;
+    font-family: 'Manrope', sans-serif;
+    font-size: 1em;
+}
+.cta{
+    background: linear-gradient(#8E86B5,#ACAEED);
+    font-family: 'Manrope', sans-serif;
+    color:#FFFFFF;
+    border-radius: 50px;
+
+}
+.com{
+    border-right: 1px solid #8e86b5;
+    border-bottom: 1px solid #8e86b5;
+}
