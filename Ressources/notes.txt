@@ -51,5 +51,14 @@ none: normal (par défaut, sauf dans le cas des liens)
 LARGEUR:width
 LONGUEUR:length
 HAUTEUR:height
+a em {
+  Applique ce style à toutes les balises  <em>  situées à l'intérieur d'une balise  <h3> , il n'y a pas de virgule entre les deux nombres
+}
 
+Le sélecteur d'une balise qui possède un attribut : a[attribut]
+a[title] {
+/* Insérez ici votre style */
+}
+En français, ce morceau de code signifie :
 
+"Sélectionne tous les liens hypertexte   <a>  qui possèdent un attribut  title  ".
