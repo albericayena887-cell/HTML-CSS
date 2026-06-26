@@ -5,6 +5,7 @@ a{
     color: #242424;
     text-decoration: none;
     
+    
 }
 em{
     font-style: normal;
@@ -56,6 +57,8 @@ a.cta:hover {
 header,footer{
     padding: 20px 50px;
     background-color: white;
+    display: flex;
+    justify-content: space-between;
 }
 section{
     padding: 80px;
@@ -69,4 +72,40 @@ section{
 }
 .com ul{
     margin-top: 30px;
+}
+nav,footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.pp{
+    background-color: white;
+    padding: 80px;
+}
+.pp h2{
+    color: #000;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.pp div{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-bottom: 15px;
+    gap: 15px;
+}
+.int{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+    width: 50;
+}
+nav a{
+    margin-left: 30px;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
 }
